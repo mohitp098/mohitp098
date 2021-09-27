@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitp098
+- 👋 Hi, I’m Mohit Pandey
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on python proggramming
